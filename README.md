@@ -1,6 +1,6 @@
-| Nama       | Muhammad Rifai Aditiya            |
+| Nama       | Risky HariAdi                  |
 | ---------- | ------------------------------ |
-| NIM        | 312010065                      |
+| NIM        | 312010124                      |
 | Kelas      | TI.20.RPL-1                    |
 | Mata Kuliah| Pemrograman Visual             |
 | Dosen      | Agung Nugroho, S.Kom., M.Kom.  |
