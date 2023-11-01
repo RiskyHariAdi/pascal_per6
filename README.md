@@ -10,27 +10,27 @@
 
 <li>Tampilan Utama Program</li></br>
 
-![Utama](Gambar/Utama.png)</p>
+![foto](foto/Slide1.PNG)</p>
 
 <li>Menghitung Gaji Bersih Direktur Tetap</li></br>
 
-![Direktur Tetap](Gambar/Direktur%20Tetap.png)</p>
+![foto](foto/Slide1.PNG)</p>
 
 <li>Menghitung Gaji Bersih Manager Tetap</li></br>
 
-![Manager Tetap](Gambar/Manager%20Tetap.png)</p>
+![foto](foto/Slide1.PNG)</p>
 
 <li>Menghitung Gaji Bersih Karyawan Tetap</li></br>
 
-![Karyawan Tetap](Gambar/Karyawan%20Tetap.png)</p>
+![foto](foto/Slide1.PNG)</p>
 
 <li>Menghitung Gaji Bersih Direktur Honorer</li></br>
 
-![Direktur Honorer](Gambar/Direktur%20Honorer.png)</p>
+![foto](foto/Slide1.PNG)</p>
 
 <li>Menghitung Gaji Bersih Manager Honorer</li></br>
 
-![Manager Honorer](Gambar/Manager%20Honorer.png)</p>
+![foto](foto/Slide1.PNG)</p>
 
 <li>Menghitung Gaji Bersih Karyawan Honorer</li></br>
 
