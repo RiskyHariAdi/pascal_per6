@@ -14,64 +14,27 @@
 
 <li>Menghitung Gaji Bersih Direktur Tetap</li></br>
 
-![foto](foto/Slide1.PNG)</p>
+![foto](foto/1.png)</p>
 
 <li>Menghitung Gaji Bersih Manager Tetap</li></br>
 
-![foto](foto/Slide1.PNG)</p>
+![foto](foto/2.png)</p>
 
 <li>Menghitung Gaji Bersih Karyawan Tetap</li></br>
 
-![foto](foto/Slide1.PNG)</p>
+![foto](foto/3.png)</p>
 
 <li>Menghitung Gaji Bersih Direktur Honorer</li></br>
 
-![foto](foto/Slide1.PNG)</p>
+![foto](foto/11.png)</p>
 
 <li>Menghitung Gaji Bersih Manager Honorer</li></br>
 
-![foto](foto/Slide1.PNG)</p>
+![foto](foto/22.png)</p>
 
 <li>Menghitung Gaji Bersih Karyawan Honorer</li></br>
 
-![Karyawan Honorer](Gambar/Karyawan%20Honorer.png)</p>
-| Nama       | Muhammad Rifai Aditiya            |
-| ---------- | ------------------------------ |
-| NIM        | 312010065                      |
-| Kelas      | TI.20.RPL-1                    |
-| Mata Kuliah| Pemrograman Visual             |
-| Dosen      | Agung Nugroho, S.Kom., M.Kom.  |
-
-## Latihan
-# 1. Program Menghitung Gaji Karyawan
-
-<li>Tampilan Utama Program</li></br>
-
-![foto](foto/Slide1.PNG)</p>
-
-<li>Menghitung Gaji Bersih Direktur Tetap</li></br>
-
-![Direktur Tetap](Gambar/Direktur%20Tetap.png)</p>
-
-<li>Menghitung Gaji Bersih Manager Tetap</li></br>
-
-![Manager Tetap](Gambar/Manager%20Tetap.png)</p>
-
-<li>Menghitung Gaji Bersih Karyawan Tetap</li></br>
-
-![Karyawan Tetap](Gambar/Karyawan%20Tetap.png)</p>
-
-<li>Menghitung Gaji Bersih Direktur Honorer</li></br>
-
-![Direktur Honorer](Gambar/Direktur%20Honorer.png)</p>
-
-<li>Menghitung Gaji Bersih Manager Honorer</li></br>
-
-![Manager Honorer](Gambar/Manager%20Honorer.png)</p>
-
-<li>Menghitung Gaji Bersih Karyawan Honorer</li></br>
-
-![Karyawan Honorer](Gambar/Karyawan%20Honorer.png)</p>
+![foto](foto/33.png)</p>
 
 <li>Full Source Code Programnya</li></br>
 
